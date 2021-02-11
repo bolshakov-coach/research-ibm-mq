@@ -1,3 +1,5 @@
+server:
+    port: ${myport:8888}
 ibm:
     mq:
         queueManager: QM_JAVA_TEMPLATE
